@@ -1,6 +1,6 @@
 # Next Level Week #1 - Ecoleta
 
-![ecoleta](https://user-images.githubusercontent.com/38534824/83990352-be4cb580-a91f-11ea-8f6d-0785f0b29a7b.png)
+![Ecoleta](https://user-images.githubusercontent.com/38534824/84055472-42885280-a98b-11ea-85e2-b6404230b0fc.jpg)
 
 Project developed during the Next Level Week, by Rocketseat. It registers and maps garbage collection points for recycling.
 
